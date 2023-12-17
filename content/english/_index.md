@@ -3,7 +3,7 @@
 banner:
   title: "Frontend Web Developer"
   content: "Hey! My name is Zach and I'm a midwest-based software developer. I focus on delivering high-quality user interfaces and experiences."
-  image: "/images/banner.png"
+  image: "/images/alt-banner.png"
   button:
     enable: true
     label: "Contact Me"
