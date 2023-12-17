@@ -1,29 +1,31 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Work Experience"
+description: "Here's some of the cool things I've done."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Partner Portal"
+    designation: "Website"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Created a fully customized portal website for a client's partners. This site gave users full access to interact with data on Salesforce without having to worry about the complexities of that platform."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "VS Code Dev Console"
+    designation: "VS Code Extension"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Created a VS Code extension that allows you to interact with your salesforce orgs without having to log in to them with your browser."
+  
+  - name: "Waste Not"
+    designation: "Website"
+    avatar: "/images/avatar-sm.png"
+    content: "Full stack web application that allows users to manage a pantry of ingredients. Users can then search for recipes that use ingredients in their pantries."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Record Location Map"
+    designation: "Frontend Component"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "A custom map component made with the open-source Javascript package Leaflet.js. Packaged Salesforce component that is fully usable in any org without having to write any code."
+
 
 # don't create a separate page
 _build:

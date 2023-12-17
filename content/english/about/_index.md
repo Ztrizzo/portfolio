@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Zach Rizzo!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/profile.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Hello! I'm Zach Rizzo, a dedicated Frontend Developer based in Madison, Wisconsin. With 1.5 years of professional experience in the tech industry, I specialize in creating dynamic and user-friendly web interfaces that enhance user experience.
+
+My journey into web development is unique, having transitioned from a 5-year tenure as a factory worker in the manufacturing sector. This background instilled in me a strong work ethic, attention to detail, and the ability to thrive in fast-paced environments. These skills have seamlessly translated into my coding career, where I am continuously driven by the challenge of turning complex problems into elegant digital solutions.
