@@ -19,3 +19,9 @@ a:hover{
   filter: grayscale(0);
   max-width:70%;
 }
+
+.video-container{
+  display:flex;
+  width:100%;
+  justify-content: center;
+}
