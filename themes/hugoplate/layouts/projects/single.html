@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class="section-sm pb-0">
+    <div class="container">
+      <h1 align="center">{{ .Title }}</h1>
+      <div class="row pb-16 pt-14">
+        {{ .Content }}
+      </div>
+      {{ range .Params.projectimages }}
+        {{ partial "image" (dict "Src" .image "Alt" .Title "Class" "mx-auto mb-6 project-page-image") }}
+      {{ end}}
+    </div>
+  </section>
+{{ end }}

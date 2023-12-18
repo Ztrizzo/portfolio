@@ -3,3 +3,19 @@
   border-radius: 10px;
   box-shadow: 0 0 10px rgb(81, 81, 81);
 }
+
+a:hover{
+  text-decoration: underline;
+}
+
+.project-page-image{
+  border-radius: 10px;
+  filter: grayscale(1);
+  transition: all 1s ease;
+  max-width: 40%;
+}
+
+.project-page-image:hover{
+  filter: grayscale(0);
+  max-width:80%;
+}
