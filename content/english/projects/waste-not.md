@@ -5,13 +5,13 @@ draft: true
 
 projectimages: 
   - name: "Home Page"
-    image: /images/jcf-fund-page.png
+    image: /images/waste-not-home.png
 
-  - name: "Grantee Page"
-    image: /images/jcf-grantee-page.png
+  - name: "Pantry Page"
+    image: /images/waste-not-pantry.png
 
-  - name: "Settings Page"
-    image: /images/jcf-settings-page.png
+  - name: "Search Page"
+    image: /images/waste-not-search.png
 
 projectvideos:
   - name: "Demo"
