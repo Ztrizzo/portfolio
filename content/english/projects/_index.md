@@ -1,7 +1,8 @@
 ---
+title: "Projects"
 features:
-  - title: "Technologies"
-    image: "/images/service-1.png"
+  - title: "Partner Portal"
+    image: "/images/jcf-fund-page.png"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
       - "10+ Pre-build pages"
