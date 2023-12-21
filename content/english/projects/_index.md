@@ -2,44 +2,54 @@
 title: "Projects"
 features:
   - title: "Partner Portal"
-    image: "/images/jcf-fund-page.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    image: "/images/partner-portal.png"
+    content: "Fully customized portal website for a client's partners. This site gave users full access to interact with data on Salesforce without having to worry about the complexities of that platform."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "Stripe integration to take Credit Card and Bank payments"
+      - "Ability for account owners to control permissions for other users on the account"
+      - "Ability to transfer funds between accounts"
       - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Personalized messaging for each user"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "More Info"
+      link: "/projects/partner-portal/"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Record Location Map"
+    image: "/images/rlm-record-page.png"
+    content: "Created a Packaged component for Salesforce that can be used to display a record's location as well as related records locations."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Packaged Component, installable in any Salesforce org"
+      - "Configurable without having to write code"
+      - "Created with an open-source package called Leaflet."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "More Info"
+      link: "/projects/record-location-map/"
+
+  - title: "VS Code Dev Console (WIP)"
+    image: "/images/vs-code-dev-console-home.png"
+    content: "VS Code extension that allows you to query data from any Salesforce organization that you are authenticated into."
+    bulletpoints:
+      - "VS Code Extension."
+      - "Easily export SOQL queries to a csv file."
+      - "Easily open and log in to any org that you're authenticated into."
+    button:
+      enable: true
+      label: "More Info"
+      link: "/projects/vs-code-dev-console/"
+
+  - title: "Waste Not"
+    image: "/images/waste-not-home.png"
+    content: "Full stack web application that allows the user to manage a pantry of ingredients."
+    bulletpoints:
+      - "Full Stack web application."
+      - "Full user authentication."
+      - "Created with React, Express, Node, and the Spoonacular Rest Api."
+    button:
+      enable: true
+      label: "More Info"
+      link: "/projects/waste-not/"
 
 
 ---
