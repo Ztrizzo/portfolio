@@ -6,7 +6,7 @@
 
 a:hover{
   text-decoration: underline;
-  color: text-primary !important;
+  @apply text-primary;
 }
 
 .project-page-image{
