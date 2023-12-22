@@ -13,7 +13,7 @@ features:
     button:
       enable: true
       label: "More Info"
-      link: "/projects/partner-portal/"
+      link: "projects/partner-portal/"
 
   - title: "Record Location Map"
     image: "/images/rlm-record-page.png"
@@ -25,7 +25,7 @@ features:
     button:
       enable: true
       label: "More Info"
-      link: "/projects/record-location-map/"
+      link: "projects/record-location-map/"
 
   - title: "VS Code Dev Console (WIP)"
     image: "/images/vs-code-dev-console-home.png"
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "More Info"
-      link: "/projects/vs-code-dev-console/"
+      link: "projects/vs-code-dev-console/"
 
   - title: "Waste Not"
     image: "/images/waste-not-home.png"
@@ -49,7 +49,7 @@ features:
     button:
       enable: true
       label: "More Info"
-      link: "/projects/waste-not/"
+      link: "projects/waste-not/"
 
 
 ---
