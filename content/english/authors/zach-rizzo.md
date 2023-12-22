@@ -2,7 +2,7 @@
 title: "Zach Rizzo"
 date: 2023-12-17T15:13:16-06:00
 image: "/images/avatar.png"
-draft: true
+draft: false
 description: "Testing"
 ---
 
