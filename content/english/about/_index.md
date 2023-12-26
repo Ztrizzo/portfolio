@@ -2,7 +2,7 @@
 title: "Hey, I am Zach Rizzo!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/profile.png"
+image: "/images/Profile.png"
 draft: false
 ---
 
