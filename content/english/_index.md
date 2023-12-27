@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Contact Me"
-    link: "mailto:rizzoZachary2@gmail.com"
+    link: "contact"
 
 # Features
 # features:
